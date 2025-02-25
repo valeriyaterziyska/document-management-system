@@ -1,0 +1,16 @@
+.form {
+    margin-top: 20px;
+    display: flex;
+    flex-flow: column;
+    width: 300px;
+    justify-content: center;
+    align-items: left;
+}
+
+.form input {
+    margin-bottom: 15px;
+}
+
+.form button {
+    width: max-content;
+}
